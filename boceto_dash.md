@@ -169,12 +169,22 @@ Given the extensive list of columns, it’s essential to streamline the dataset 
   - `value_or_belief`
 - **Rationale:** Focuses on clan-specific characteristics and diversity.
 
+
+
 ##### **c. Power and Attributes Analysis**
 - **Required Columns:**
   - `strength`, `dexterity`, `constitution`, `intelligence`, `wisdom`, `charisma`
   - `physical_prowess`, `health`, `speed`, `focus`
   - `resilience`, `combat_skill`, `stealth_skill`
 - **Rationale:** Essential for evaluating power levels and attribute distributions.
+##### **g. Survival and Special Abilities Impact**
+- **Required Columns:**
+  - `survival_skills`
+  - `special_skill_or_knowledge`
+  - `resourcefulness`, `luck`
+  - `combat_skill`, `stealth_skill`
+  - `health`, `endurance`
+- **Rationale:** Evaluates how special abilities and skills contribute to survival.
 
 ##### **d. Geographical Distribution Map**
 - **Required Columns:**
@@ -184,30 +194,14 @@ Given the extensive list of columns, it’s essential to streamline the dataset 
   - `birth_year`
 - **Rationale:** Necessary for mapping and regional analysis.
 
+
+
 ##### **e. Evolution of Power Over Time**
 - **Required Columns:**
   - `birth_year`
   - `age`
   - `strength`, `dexterity`, `intelligence`, `wisdom`, `charisma`
 - **Rationale:** Tracks changes in attributes across different birth years.
-
-##### **f. Values, Beliefs, and Abilities Correlation**
-- **Required Columns:**
-  - `value_or_belief`
-  - `moral_alignment`
-  - `unique_ability`
-  - `strength`, `wisdom`, `charisma`, `stealth`
-  - `combat_skill`, `diplomacy_skill`
-- **Rationale:** To analyze relationships between values, beliefs, and abilities.
-
-##### **g. Survival and Special Abilities Impact**
-- **Required Columns:**
-  - `survival_skills`
-  - `special_skill_or_knowledge`
-  - `resourcefulness`, `luck`
-  - `combat_skill`, `stealth_skill`
-  - `health`, `endurance`
-- **Rationale:** Evaluates how special abilities and skills contribute to survival.
 
 ##### **h. Psychological Profile Dashboard**
 - **Required Columns:**
