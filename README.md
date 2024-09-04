@@ -2,7 +2,7 @@
 
 ¡Hola, criaturas de la noche! 🌙 Bienvenidas a nuestro espeluznante pero acogedor proyecto de visualización de datos sobre vampiros. 🦇 
 
-Somos un grupo de acompañamiento psicológico y social para vampiros recién convertidos, porque sí, adaptarse a la eternidad no es fácil, ¡pero no estás solo! Nuestro objetivo es comprender mejor a nuestros nuevos amigos con colmillos y ayudarles a navegar por su nueva (y eterna) vida.
+Somos Eclipse Consulting, un grupo de acompañamiento psicológico y social para vampiros recién convertidos, porque sí, adaptarse a la eternidad no es fácil, ¡pero no estás solo! Nuestro objetivo es comprender mejor a nuestros nuevos amigos con colmillos y ayudarles a navegar por su nueva (y eterna) vida.
 
 Este repositorio es un baúl del tesoro lleno de datos fascinantes y visualizaciones que te harán decir "¡Muérdeme!". 🩸
 
@@ -16,7 +16,7 @@ Este repositorio es un baúl del tesoro lleno de datos fascinantes y visualizaci
 
 ¿Te sientes valiente? ¡Entonces aventúrate en nuestras visualizaciones interactivas en Tableau Public! 🌑✨
 
-🔗 [**Enlace al Dashboard de Tableau**](https://www.tableaupublic.com/)  
+🔗 [**Enlace al Dashboard de Tableau**](https://public.tableau.com/views/Vampiros/Indice?:language=es-ES&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
 
 > *Consejo del día: Visita el dashboard durante la noche para una experiencia auténtica... pero asegúrate de tener un espejo cerca, aunque ya sabemos que no los necesitas.* 😜🦇
 
@@ -24,12 +24,12 @@ Este repositorio es un baúl del tesoro lleno de datos fascinantes y visualizaci
 
 1. Clona este repositorio (no necesitas convertirte en murciélago):
    ```bash
-   git clone https://github.com/tu_usuario/nombre_del_repositorio.git
+   git clone https://github.com/MaPitelli/Vampire-Chronicles.git
    ```
 
 2. Entra a la cripta... digo, a la carpeta del proyecto:
    ```bash
-   cd nombre_del_repositorio
+   cd Vampire-Chronicles
    ```
 
 3. Abre los notebooks y deja que el conocimiento fluya:
